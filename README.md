@@ -1,1 +1,1 @@
-# weather-loggeroops
+# weather-logger
